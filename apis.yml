@@ -54,11 +54,11 @@ apis:
         url: https://www.getmaxim.ai/docs
       - type: GettingStarted
         url: https://www.getmaxim.ai/docs/introduction/quickstart/quickstart
-      - type: SignUp
+      - type: Signup
         url: https://app.getmaxim.ai/sign-up
-      - type: SDK
+      - type: SDKs
         url: https://github.com/maximhq/maxim-py
-      - type: SDK
+      - type: SDKs
         url: https://github.com/maximhq/maxim-js
       - type: GitHubRepository
         url: https://github.com/maximhq/maxim-cookbooks
