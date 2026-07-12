@@ -157,6 +157,10 @@ apis:
           on each request; SAML SSO (Google, Okta) and 2FA are available
           for dashboard access.
 common:
+  - type: TrustCenter
+    url: security/maxim-trust-center.yml
+  - type: DomainSecurity
+    url: security/maxim-domain-security.yml
   - type: Website
     url: https://www.getmaxim.ai
   - type: Documentation
