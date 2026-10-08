@@ -184,6 +184,12 @@ apis:
           on each request; SAML SSO (Google, Okta) and 2FA are available
           for dashboard access.
 common:
+  - type: Plans
+    url: plans/maxim-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/maxim-rate-limits.yml
+  - type: FinOps
+    url: finops/maxim-finops.yml
   - type: TrustCenter
     url: security/maxim-trust-center.yml
   - type: DomainSecurity
